@@ -1,0 +1,7 @@
+<m-character src="https://cylinderfolk.xyz/glb/body3.glb">
+	<m-model type="Head" src="https://cylinderfolk.xyz/glb/head1.glb"></m-model>
+	<m-model type="Hat" src="https://cylinderfolk.xyz/glb/hat2.glb"></m-model>
+	<m-model type="Ears" src="https://cylinderfolk.xyz/glb/ear1.glb"></m-model>
+	<m-model type="Eyes" src="https://cylinderfolk.xyz/glb/eye2.glb"></m-model>
+	<m-model type="Pants" src=""></m-model>
+</m-character>
