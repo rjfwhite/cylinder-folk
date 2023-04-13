@@ -1,0 +1,94 @@
+{
+  "crowdMeshes": [
+    {
+      "key": "https://cylinderfolk.xyz/glb/body2.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/body2.glb"
+      ]
+    },
+    {
+      "key": "https://cylinderfolk.xyz/glb/body4.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/body4.glb"
+      ]
+    },
+    {
+      "key": "https://cylinderfolk.xyz/glb/body3.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/body3.glb"
+      ]
+    },
+    {
+      "key": "https://cylinderfolk.xyz/glb/head2.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/head2.glb"
+      ]
+    },
+    {
+      "key": "https://cylinderfolk.xyz/glb/head1.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/head1.glb"
+      ]
+    },
+    {
+      "key": "https://cylinderfolk.xyz/glb/hat4.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/hat4.glb"
+      ]
+    },
+    {
+      "key": "https://cylinderfolk.xyz/glb/hat2.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/hat2.glb"
+      ]
+    },
+    {
+      "key": "https://cylinderfolk.xyz/glb/hat5.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/hat5.glb"
+      ]
+    },
+    {
+      "key": "https://cylinderfolk.xyz/glb/hat6.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/hat6.glb"
+      ]
+    },
+    {
+      "key": "https://cylinderfolk.xyz/glb/ear1.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/ear1.glb"
+      ]
+    },
+    {
+      "key": "https://cylinderfolk.xyz/glb/ear2.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/ear2.glb"
+      ]
+    },
+    {
+      "key": "https://cylinderfolk.xyz/glb/eye2.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/eye2.glb"
+      ]
+    },
+    {
+      "key": "https://cylinderfolk.xyz/glb/eye1.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/eye1.glb"
+      ]
+    },
+    {
+      "key": "https://cylinderfolk.xyz/glb/leg1.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/leg1.glb"
+      ]
+    },
+    {
+      "key": "https://cylinderfolk.xyz/glb/leg2.glb",
+      "lods": [
+        "https://cylinderfolk.xyz/glb/leg2.glb"
+      ]
+    }
+  ]
+}
